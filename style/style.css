@@ -11,11 +11,12 @@ p {
 }
 
 div {
-    width: 3em;
-    height: 3em;
-    background-color: aqua;
-    animation-name: example;
-    animation-duration: 4s;
+    width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
 }
 
 @keyframes example {
