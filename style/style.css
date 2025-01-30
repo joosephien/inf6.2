@@ -13,11 +13,12 @@ p.one {
     color: black;
     border-style: solid;
     border-width: 5px;
+    border-radius: 5px;
 }
 
 p.three {
     border-color: aqua;
-    border-style: dotted;
+    border-style: dotted solid; 
     border-width: 2px;
   }
 
