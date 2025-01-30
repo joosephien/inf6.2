@@ -1,11 +1,9 @@
-
-
 body {
-    background-color: #FFDFDF;
+    background-color: #FFF6F6;
 }
 
 h1 {
-    color: red;
+    color: black;
     margin-left: 20px;
 }
 
@@ -21,6 +19,12 @@ p.three {
     border-style: dotted solid; 
     border-width: 2px;
   }
+
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
 
 
 
