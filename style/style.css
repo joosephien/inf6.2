@@ -16,6 +16,7 @@ p.one {
 }
 
 p.three {
+    border-color: aqua;
     border-style: dotted;
     border-width: 2px;
   }
