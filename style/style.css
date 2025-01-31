@@ -1,5 +1,5 @@
 body {
-    background-color: #FFF6F6;
+    background-color: #FFECEC;
 }
 
 h1 {
@@ -21,7 +21,7 @@ p.three {
   }
 
 .header {
-    background-color: #FFDFDF;
+    background-color: #E47A7A;
     text-align: center;
     padding: 20px;
 }
@@ -29,14 +29,14 @@ p.three {
 /* The navbar container */
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: #B74343;
   }
   
   /* Navbar links */
   .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #FFAFAF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
