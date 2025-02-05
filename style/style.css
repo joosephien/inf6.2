@@ -39,15 +39,16 @@ a:active {
   text-decoration:none;
 }
 
-.huidigesite a {
-  background-color:#C36279;
-}
 /* The navbar container */
 .topnav {
     overflow: hidden;
     background-color: #B74343;
   }
   
+  .huidigesite a {
+    background-color:#C36279;
+  }
+
   /* Navbar links */
   .topnav a {
     float: left;
