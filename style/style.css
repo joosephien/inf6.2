@@ -8,9 +8,10 @@ h1 {
 }
 
 p.one {
-    color: #E47A7A;
+    border-color: #E47A7A;
     border-style: solid;
     border-radius: 4px;
+    color: black;
 }
 
 p.three {
