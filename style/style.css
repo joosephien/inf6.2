@@ -43,6 +43,11 @@ a:active {
   background-color:#C36279;
 }
 
+#huidigesite:hover {
+  background-color: #ddd;
+  color: black;
+}
+
 /* The navbar container */
 .topnav {
     overflow: hidden;
