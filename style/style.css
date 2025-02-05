@@ -12,6 +12,7 @@ p.one {
     border-style: solid;
     border-radius: 4px;
     color: black;
+    margin-left: 40px;
 }
 
 p.three {
