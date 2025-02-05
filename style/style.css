@@ -19,6 +19,10 @@ p.one {
     margin-right: 5px;
 }
 
+h1.two {
+  text-align: center;
+}
+
 p.three {
     border-color: aqua;
     border-style: dotted solid; 
