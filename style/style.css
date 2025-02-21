@@ -29,6 +29,11 @@ p.three {
     border-width: 2px;
   }
 
+p.foot {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
 .header {
     background-image: url("../img/aardbei.jpg");
     background-size: cover;
@@ -51,8 +56,6 @@ footer {
   padding: 10px;
   background-color: #943131;
   color: #FFAFAF;
-  margin-top: 5px;
-  margin-bottom: 5px;
 }
 
 a:link { 
