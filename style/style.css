@@ -48,10 +48,9 @@ p.three {
 
 footer {
   text-align: center;
-  padding: 3px;
-  background-color: DarkSalmon;
-  color: white;
-  bottom: 0;
+  padding: 1px;
+  background-color: #943131;
+  color: #FFAFAF;
 }
 
 a:link { 
