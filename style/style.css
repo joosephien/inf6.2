@@ -117,7 +117,14 @@ a:active {
   border-radius: 40em;
   width: 7em;
   height: 7em;
+  animation-name: spin;
+  animation-duration: 1000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
 }
 
-
+@keyframes mymove {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
 
