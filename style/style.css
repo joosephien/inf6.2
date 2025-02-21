@@ -118,7 +118,7 @@ a:active {
   width: 7em;
   height: 7em;
   animation-name: spin;
-  animation-duration: 0.8s;
+  animation-duration: 2.8s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
