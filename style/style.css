@@ -107,6 +107,10 @@ a:active {
   height: 7em;
 }
 
+.muziek {
+  display: flex;
+}
+
 
 
 
