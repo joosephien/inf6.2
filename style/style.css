@@ -84,6 +84,14 @@ a:active {
   height: 3em;
 }
 
+.haar ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.haar ul li{
+  list-style-type: none;
+}
 .haar ul li img  {
   width: 3em;
   height: 7em;
