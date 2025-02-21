@@ -37,6 +37,12 @@ p.three {
     padding: 20px;
 }
 
+main {
+  background-image: url("../img/catburg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
 a:link { 
   text-decoration: none; 
 } 
