@@ -51,6 +51,7 @@ footer {
   padding: 3px;
   background-color: DarkSalmon;
   color: white;
+  bottom: 0;
 }
 
 a:link { 
