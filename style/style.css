@@ -84,8 +84,9 @@ a:active {
   height: 3em;
 }
 
-.haar {
-  
+.haar ul li img  {
+  width: 3em;
+  height: 7em;
 }
 
 
