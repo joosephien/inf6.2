@@ -30,7 +30,7 @@ p.three {
   }
 
 .header {
-    background-color: #E47A7A;
+    background-image: url("img/aardbei.jpg");
     text-align: center;
     padding: 20px;
 }
