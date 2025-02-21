@@ -39,7 +39,7 @@ p.three {
 
 #cat {
   background-image: url("../img/catburg.jpg");
-  background-size: cover;
+  background-size: auto;
   background-position: center;
 }
 
