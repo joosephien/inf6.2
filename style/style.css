@@ -116,7 +116,8 @@ a:active {
   list-style-type: none;
   border-color: #E47A7A;
   border-style: solid;
-  border-radius: 8px;
+  border-width: 5px;
+  border-radius: 4px;
   background-color: #FFECEC;
   /* padding-left: 15px;
   padding-top: 5px;
