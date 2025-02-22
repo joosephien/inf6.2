@@ -2,6 +2,7 @@ body {
     background-color: #FFECEC;
     background: url("../img/bloemen.jpg");
     background-size: cover;
+    background-repeat: repeat-y;
 }
 
 h1 {
