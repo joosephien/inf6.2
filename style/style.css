@@ -1,7 +1,6 @@
 body {
     background-color: #FFECEC;
     background: url("../img/bloemen.jpg");
-    background-repeat: no-repeat; 
     background-size: cover;
     background-position: center;
 }
