@@ -117,7 +117,7 @@ a:active {
 
 .haar ul {
   display: inline-flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .haar ul li{
@@ -175,7 +175,6 @@ a:active {
   display: flex;
   justify-content: space-around;
 }
-
 
 .muziek div img {
   border-radius: 40em;
