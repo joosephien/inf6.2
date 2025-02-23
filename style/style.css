@@ -132,7 +132,7 @@ a:active {
   height: 20em;
 }
 
-/*.haar1 div{
+.baby div{
   display: flex;
   justify-content: space-around;
   border-color: #E47A7A;
@@ -141,8 +141,8 @@ a:active {
   border-radius: 4px;
   padding: 5px 15px 5px 15px ;
 }
-*/
-.haar1 div img{
+
+.baby div img{
   width: 15em;
   height: 20em;
 }
