@@ -172,9 +172,6 @@ a:active {
   padding: 5px 15px 5px 15px ;
   margin-left: 5px;
   margin-right: 5px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   height: 7em;
   width: 5em;
 }
