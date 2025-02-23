@@ -175,10 +175,10 @@ a:active {
 }
 
 .muziek ul li img {
-  width: 8em;
-  height: 6em;
+  width: 7em;
+  height: 5em;
   animation-name: spin;
-  animation-duration: 2.8s;
+  animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
   padding-left: 3em;
