@@ -106,7 +106,7 @@ a:active {
   }
 
 .haar ul {
-  display: flex;
+  display: inline;
   justify-content: space-between;
 }
 
@@ -124,6 +124,7 @@ a:active {
   margin-left: 5px;
   margin-right: 5px;
 }
+
 .haar ul li img  {
   width: 15em;
   height: 20em;
