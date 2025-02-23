@@ -176,7 +176,7 @@ a:active {
   justify-content: space-around;
 }
 
-.muziek div img {
+.muziek ul li img {
   border-radius: 40em;
   width: 7em;
   height: 7em;
