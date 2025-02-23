@@ -175,7 +175,7 @@ a:active {
 }
 
 .muziek ul li img {
-  width: 3em;
+  width: 8em;
   height: 6em;
   animation-name: spin;
   animation-duration: 2.8s;
