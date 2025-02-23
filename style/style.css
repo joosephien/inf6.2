@@ -181,7 +181,7 @@ a:active {
   animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
-  padding: center;
+  object-position: 15% 100%;
 }
 
 @keyframes spin { 
