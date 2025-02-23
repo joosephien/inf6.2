@@ -157,7 +157,7 @@ a:active {
 
 .muziek ul {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .muziek ul li{
