@@ -150,8 +150,11 @@ a:active {
 }
 
 @keyframes heenweer {
-  from {left: 0px;}
-  to {left: 200px;}
+  from { 
+    transform: rotate(0deg); 
+} to { 
+    transform: rotate(360deg); 
+}
 }
 
 .muziek div {
