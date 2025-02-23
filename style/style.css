@@ -150,9 +150,9 @@ a:active {
 .muziek div {
   display: flex;
   justify-content: space-around;
-  border-color: #E47A7A;
+ /* border-color: #E47A7A;
   border-style: solid;
-  background-color: #FFECEC;
+  background-color: #FFECEC;*/
   border-radius: 4px;
   padding: 5px 15px 5px 15px ;
 }
