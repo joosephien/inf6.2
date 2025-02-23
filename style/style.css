@@ -50,7 +50,6 @@ p.foot {
   background-image: url("../img/hamst.jpg");
   background-size: auto;
   background-position: center;
-  background-repeat: no-repeat;
   background-size: 100% 100%;
   height: 41em;
 }
