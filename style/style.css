@@ -143,18 +143,6 @@ a:active {
 .baby div img{
   width: 10em;
   height: 14em;
-  position: relative;
-  animation-name: heenweer;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-}
-
-@keyframes heenweer {
-  from { 
-    transform: rotate(0deg); 
-} to { 
-    transform: rotate(360deg); 
-}
 }
 
 .muziek div {
