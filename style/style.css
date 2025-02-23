@@ -46,6 +46,7 @@ p.foot {
     padding: 20px;
 }
 
+/*
 #cat {
   background-image: url("../img/hamst.jpg");
   background-size: auto;
@@ -53,6 +54,15 @@ p.foot {
   background-size: 100% 100%;
   height: 41em;
 }
+*/
+
+#cat {
+  background-image: url("../img/hamst.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
 
 footer {
   text-align: center;
