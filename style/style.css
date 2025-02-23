@@ -153,9 +153,7 @@ a:active {
   0% {
     left: 0;
   }
-  50% {
-    right: 0;
-  }
+  50%{ left : 100%;}
   100% {
     left: 0;
     transform: scaleX(-1);
