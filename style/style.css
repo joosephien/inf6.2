@@ -167,10 +167,6 @@ a:active {
   animation-timing-function: linear;
 }
 
-.muziek div p {
-  color: black;
-}
-
 @keyframes spin { 
   from { 
       transform: rotate(0deg); 
