@@ -116,7 +116,7 @@ a:active {
   }
 
 .haar ul {
-  display: inline;
+  display: inline-flex;
   justify-content: space-between;
 }
 
